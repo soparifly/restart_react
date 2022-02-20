@@ -1,0 +1,7 @@
+/* Footer.css */
+footer {
+  box-sizing: border-box;
+  text-align: center;
+  border: 1px solid green;
+  width: 100%;
+}
